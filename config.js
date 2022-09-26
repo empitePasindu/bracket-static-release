@@ -1,0 +1,1 @@
+window.config={API_URL:"https://api.qa1-goals.com",HAM_API_URL:"https://api.qa-ham.com",VALIDATOR_URL:"https://validator.qa1-goals.com",GATEWAY_URL:"https://gateway.qa1-goals.com"};

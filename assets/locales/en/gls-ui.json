@@ -1,0 +1,121 @@
+{
+  "appbar": {
+    "wallets": "Wallets"
+  },
+  "collection": {
+    "no_packs": "You have no packs"
+  },
+  "common": {
+    "back": "Back",
+    "buy": "buy",
+    "clear": "Clear",
+    "create": "Create",
+    "edit": "Edit",
+    "error": "An error occurred",
+    "login": "Log In",
+    "logout": "Log Out",
+    "register": "Register",
+    "save": "Save",
+    "submit": "Submit"
+  },
+  "create_hive_wallet": {
+    "warning": "Your Hive wallet address cannot be changed once created"
+  },
+  "forms": {
+    "errors": {
+      "accept_terms": "You must accept the terms and conditions in order to continue.",
+      "address_required": "Address is required",
+      "confirm_email_required": "Confirm Email is required",
+      "confirm_password_required": "Confirm Password is required",
+      "email_mismatch": "Emails do not match",
+      "email_required": "Email is required",
+      "hive_address_already_exists": "Hive address already exists",
+      "hive_address_invalid": "Hive address is invalid",
+      "hive_address_required": "Hive address is required",
+      "link_wallet": "There was an error linking the account. {reason}",
+      "password_mismatch": "Passwords do not match",
+      "password_required": "Pasword is required",
+      "reset_password_code": "An email was sent with a code to reset your password. Please check spam and junk folders if you do not see it",
+      "retrieve_backup_code": "An email was sent with a code to retrieve your keys. Please check spam and junk folders if you do not see it"
+    },
+    "labels": {
+      "accept_terms": "By checking this box, you accept the <1>Privacy Policy</1> and <3>Terms of Service</3>.",
+      "confirm_email": "Confirm email address",
+      "confirm_password": "Confirm Password",
+      "email_address": "Email address",
+      "email_adress": "Email address",
+      "hive_address": "Hive address",
+      "password": "Password",
+      "quantity": "Quantity",
+      "referral_account": "Referral Account",
+      "reset_password_code": "Code",
+      "subscribe": "Notify me about updates and special offers.",
+      "wallet_address": "Wallet address"
+    }
+  },
+  "items": {
+    "GENESIS": "Packs"
+  },
+  "link_wallet": {
+    "lookup_address": "Lookup address",
+    "tos": "I acknowledge that the address I am linking is NOT an exchange address and that I control the private keys to it. I understand that any DEC tokens sent to an exchange address will be lost"
+  },
+  "login": {
+    "error": "Login Failed",
+    "forgot_password": {
+      "heading": "Recover Password",
+      "help": "You can contact us at <a style='text-decoration: none; color: #0089FF;' href='mailto:support@genesisleaguesports.com'>support@genesisleaguesports.com</a> or on Discord for help if you have issues with your email.",
+      "instructions": "Please enter the email address associated with your account. If you have lost your private keys please contact us at <a style='text-decoration: none; color: #0089FF;' href='mailto:support@genesisleaguesports.com'>support@genesisleaguesports.com</a> or on Discord for help.",
+      "submit": "Recover Password",
+      "success": "An email has been sent with instructions for resetting your password. Please check spam and junk folders if you do not see it."
+    }
+  },
+  "payments": {
+    "crypto": "Crypto",
+    "order_summary": {
+      "title": "Order Summary"
+    },
+    "pay_with": "Pay with",
+    "pay_with_hivesigner": "Pay with Hivesigner",
+    "pay_with_keychain": "Pay with Keychain",
+    "total": "Total",
+    "wallet_payment_instructions": {
+      "heading": "{{tokenType}} Token Payment Instructions (Please read carefully!)",
+      "li1": "You MUST use a web-enabled {{chain}} wallet to make payments using {{tokenType}} tokens. Metamask is highly recommended.",
+      "li2": "You MUST have enough {{nativeToken}} tokens in the {{chain}} wallet from which you will be making a payment to cover the required gas fees.",
+      "li21": "You have Metamask or another web-enabled browser wallet.",
+      "li22": "Your wallet is connected to {{chain}}",
+      "li23": "You have enough {{nativeToken}} tokens in your wallet to cover the required gas fees.",
+      "li24": "You have enough of the specified {{tokenType}} token required to make the payment.",
+      "li3": "The FIRST TIME you make a payment with the specified {{tokenType}} token, you will be asked to submit a transaction to approve payments using that token. This transaction will also require gas fees paid in {{nativeToken}}.",
+      "li4": "If you receive an error making the payment, please check the following:"
+    }
+  },
+  "register": {
+    "authorize_with": "Or Authorize With",
+    "create_password": "Create Password"
+  },
+  "shop": {
+    "bonus_packs": "bonus packs",
+    "bonus_packs_percent": "<strong>{{percent}}% more BONUS PACKS!</strong>",
+    "bonus_packs_quantity": "Up to <strong>{{quantity}} BONUS PACKS</strong> may be added to this Purchase!",
+    "buy_packs": {
+      "description": "Buy {{promotionMin}}+ Packs to unlock BONUS PACK options!",
+      "title": "Buy Packs. Get Bonuses."
+    },
+    "choose_quantity": "Choose pack quantities",
+    "crypto": "Crypto",
+    "order_summary": {
+      "title": "Order Summary"
+    },
+    "pay_with": "Pay with",
+    "promotion": {
+      "footnote": "Additional <strong>Bonus Packs</strong> may be purchased when choosing a Promotional Pack Quantity."
+    },
+    "promotion_quantity": "{{quantity}} Packs",
+    "purchase_with": "Purchase with",
+    "quantity_label": "Packs:",
+    "select_quantity": "Or select a quantity",
+    "total": "Total"
+  }
+}
